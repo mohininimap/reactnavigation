@@ -1,0 +1,19 @@
+.nav{
+    height:80px;
+    width:100%;
+    background-color: dodgerblue;
+    display:flex;
+   
+   
+}
+.nav ul{
+    display:flex;
+    
+}
+.nav ul li{
+    text-decoration: none!important;
+  list-style-type: none;
+margin:5px;
+}
+
+ 
